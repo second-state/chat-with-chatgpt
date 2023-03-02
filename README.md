@@ -5,4 +5,4 @@ To chat with ChatGPT, simply create a new issue under this repo and anyone can j
 This GitHub app is powered by [GPT3.5 model](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), Rust, and [WasmEdge](https://github.com/WasmEdge/WasmEdge).
 
 
-The source code is coming soon.
+If you'd like to use this GitHub App, please find our email by visiting our profile and send an email to us.
