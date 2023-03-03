@@ -1,6 +1,6 @@
 # Wisdom of the crowd with our robotic overlord
 
-To start, [simply create a new issue](https://github.com/second-state/chat-with-chatgpt/issues/new) with your question. ChatGPT will then respond to anyone's question in the comments thread under that issue. [See all conversation threads](https://github.com/second-state/chat-with-chatgpt/issues).
+To start, [simply create a new issue](https://github.com/second-state/chat-with-chatgpt/issues/new) and ask your question **as a comment**. ChatGPT will then respond to anyone's question in the comments thread under that issue. [See all conversation threads](https://github.com/second-state/chat-with-chatgpt/issues).
 
 > Keep in mind that the conversation will reset to a new start if there is no new comment in the thread for ten minutes.
 
