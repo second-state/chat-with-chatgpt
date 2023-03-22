@@ -10,6 +10,6 @@ This repo allows multiple people to chat with ChatGPT collaboratively in the ope
 
 ## Credits
 
-This GitHub app is powered by the [GPT3.5 model](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), Rust, and [WasmEdge](https://github.com/WasmEdge/WasmEdge).
+This GitHub app is powered by the [GPT3.5&4 models](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), Rust, and [WasmEdge](https://github.com/WasmEdge/WasmEdge).
 
 If you'd like to deploy this GitHub App in your own orgnization, please refer to [this repo](https://github.com/flows-network/chatgpt-github-app) including the source code in Rust and deployment instruction.
