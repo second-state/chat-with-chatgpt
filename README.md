@@ -8,12 +8,15 @@ This repo allows multiple people to chat with ChatGPT collaboratively in the ope
 
 ## Notable conversations
 
-Learning OpenAI / ChatGPT concepts 
-* [What is AI alignment?](https://github.com/second-state/chat-with-chatgpt/issues/179)
+Learning about OpenAI / ChatGPT
 * [How does ChatGPT know what's said in past messages in a conversation?](https://github.com/second-state/chat-with-chatgpt/issues/210)
 * [What are embeddings?](https://github.com/second-state/chat-with-chatgpt/issues/188)
 * [How do I create and use embeddings with OpenAI models?](https://github.com/second-state/chat-with-chatgpt/issues/202)
 * [How to count tokens and characters?](https://github.com/second-state/chat-with-chatgpt/issues/203)
+
+Concepts in AI research
+* [What is AI alignment?](https://github.com/second-state/chat-with-chatgpt/issues/179)
+* [What is Embodied Turing Test](https://github.com/second-state/chat-with-chatgpt/issues/211)
 
 Jokes
 * [A German joke about men and directions](https://github.com/second-state/chat-with-chatgpt/issues/123)
