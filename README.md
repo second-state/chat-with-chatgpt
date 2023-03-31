@@ -10,29 +10,30 @@ This repo allows multiple people to chat with ChatGPT collaboratively in the ope
 
 Learning OpenAI / ChatGPT concepts 
 * [What is AI alignment?](https://github.com/second-state/chat-with-chatgpt/issues/179)
+* [How does ChatGPT know what's said in past messages in a conversation?](https://github.com/second-state/chat-with-chatgpt/issues/210)
 * [What are embeddings?](https://github.com/second-state/chat-with-chatgpt/issues/188)
 * [How do I create and use embeddings with OpenAI models?](https://github.com/second-state/chat-with-chatgpt/issues/202)
 * [How to count tokens and characters?](https://github.com/second-state/chat-with-chatgpt/issues/203)
 
 Jokes
-* [A German joke about men and directions.](https://github.com/second-state/chat-with-chatgpt/issues/123)
-* [Light bulb and restaurant inspectors.](https://github.com/second-state/chat-with-chatgpt/issues/109)
+* [A German joke about men and directions](https://github.com/second-state/chat-with-chatgpt/issues/123)
+* [Light bulb and restaurant inspectors](https://github.com/second-state/chat-with-chatgpt/issues/109)
 
 Readings and pop culture
-* [Anathem by Neal Stephenson.](https://github.com/second-state/chat-with-chatgpt/issues/46)
+* [Anathem by Neal Stephenson](https://github.com/second-state/chat-with-chatgpt/issues/46)
 
 
 Understanding languages
-* [Jumbled words.](https://github.com/second-state/chat-with-chatgpt/issues/204)
-* [Grammar tree.](https://github.com/second-state/chat-with-chatgpt/issues/94)
-* [New acronyms.](https://github.com/second-state/chat-with-chatgpt/issues/97)
+* [Understand jumbled words](https://github.com/second-state/chat-with-chatgpt/issues/204)
+* [Parse grammar trees](https://github.com/second-state/chat-with-chatgpt/issues/94)
+* [Guess what a new acronym means](https://github.com/second-state/chat-with-chatgpt/issues/97)
 
 
 中文
-* [写段 Python 程序解鸡兔同笼问题。](https://github.com/second-state/chat-with-chatgpt/issues/192)
-* [猜名字。](https://github.com/second-state/chat-with-chatgpt/issues/44)
-* [常识与算术。](https://github.com/second-state/chat-with-chatgpt/issues/43)
-* [充当 Linux 终端。](https://github.com/second-state/chat-with-chatgpt/issues/133)
+* [写段 Python 程序解鸡兔同笼问题](https://github.com/second-state/chat-with-chatgpt/issues/192)
+* [猜宠物名字](https://github.com/second-state/chat-with-chatgpt/issues/44)
+* [回答常识与算术问题](https://github.com/second-state/chat-with-chatgpt/issues/43)
+* [充当 Linux 终端](https://github.com/second-state/chat-with-chatgpt/issues/133)
 
 ## Credits
 
