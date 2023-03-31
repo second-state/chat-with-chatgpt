@@ -16,7 +16,8 @@ Learning about OpenAI / ChatGPT
 
 Concepts in AI research
 * [What is AI alignment?](https://github.com/second-state/chat-with-chatgpt/issues/179)
-* [What is Embodied Turing Test](https://github.com/second-state/chat-with-chatgpt/issues/211)
+* [What is the Embodied Turing Test?](https://github.com/second-state/chat-with-chatgpt/issues/211)
+* [What are seq2seq and transformer models?](https://github.com/second-state/chat-with-chatgpt/issues/212)
 
 Jokes
 * [A German joke about men and directions](https://github.com/second-state/chat-with-chatgpt/issues/123)
