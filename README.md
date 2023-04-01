@@ -23,10 +23,10 @@ Concepts in AI research
 Jokes
 * [A German joke about men and directions](https://github.com/second-state/chat-with-chatgpt/issues/123)
 * [Light bulb and restaurant inspectors](https://github.com/second-state/chat-with-chatgpt/issues/109)
+* [April Fool's Day](https://github.com/second-state/chat-with-chatgpt/issues/219)
 
 Readings and pop culture
 * [Anathem by Neal Stephenson](https://github.com/second-state/chat-with-chatgpt/issues/46)
-
 
 Understanding languages
 * [Understand jumbled words](https://github.com/second-state/chat-with-chatgpt/issues/204)
