@@ -11,7 +11,8 @@ This repo allows multiple people to chat with ChatGPT collaboratively in the ope
 Learning about OpenAI / ChatGPT
 * [How does ChatGPT know what's said in past messages in a conversation?](https://github.com/second-state/chat-with-chatgpt/issues/210)
 * [What are embeddings?](https://github.com/second-state/chat-with-chatgpt/issues/188)
-* [How do I create and use embeddings with OpenAI models?](https://github.com/second-state/chat-with-chatgpt/issues/202)
+* [How to create and use embeddings with OpenAI models?](https://github.com/second-state/chat-with-chatgpt/issues/202)
+* [How to store and search for embeddings in ElasticSearch?](https://github.com/second-state/chat-with-chatgpt/issues/218)
 * [How to count tokens and characters?](https://github.com/second-state/chat-with-chatgpt/issues/203)
 
 Concepts in AI research
