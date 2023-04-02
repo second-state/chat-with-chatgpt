@@ -20,6 +20,9 @@ Concepts in AI research
 * [What is the Embodied Turing Test?](https://github.com/second-state/chat-with-chatgpt/issues/211)
 * [What are seq2seq and transformer models?](https://github.com/second-state/chat-with-chatgpt/issues/212)
 
+How-to program
+* [Extract a vector outline of objects in an image](https://github.com/second-state/chat-with-chatgpt/issues/220)
+
 Jokes
 * [A German joke about men and directions](https://github.com/second-state/chat-with-chatgpt/issues/123)
 * [Light bulb and restaurant inspectors](https://github.com/second-state/chat-with-chatgpt/issues/109)
