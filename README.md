@@ -31,6 +31,9 @@ Jokes
 Readings and pop culture
 * [Anathem by Neal Stephenson](https://github.com/second-state/chat-with-chatgpt/issues/46)
 
+Math
+* [Solving a very hard math problem](https://github.com/second-state/chat-with-chatgpt/issues/232)
+
 Understanding languages
 * [Understand jumbled words](https://github.com/second-state/chat-with-chatgpt/issues/204)
 * [Parse grammar trees](https://github.com/second-state/chat-with-chatgpt/issues/94)
