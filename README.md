@@ -45,6 +45,7 @@ Understanding languages
 * [猜宠物名字](https://github.com/second-state/chat-with-chatgpt/issues/44)
 * [回答常识与算术问题](https://github.com/second-state/chat-with-chatgpt/issues/43)
 * [充当 Linux 终端](https://github.com/second-state/chat-with-chatgpt/issues/133)
+* [理解 cgroups，后面有几段关于AI统治人类社会的讨论](https://github.com/second-state/chat-with-chatgpt/issues/229)
 
 ## Credits
 
