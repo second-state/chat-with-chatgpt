@@ -34,6 +34,7 @@ Readings and pop culture
 Math, science and logic
 * [Solving a very hard math problem](https://github.com/second-state/chat-with-chatgpt/issues/232)
 * [Figuring out Earth's rotation around the Sun](https://github.com/second-state/chat-with-chatgpt/issues/242)
+* [Writing an efficient Rust function to check for prime numbers (GTP3.5)](https://github.com/second-state/chat-with-chatgpt/issues/250)
 
 Understanding languages
 * [Understand jumbled words](https://github.com/second-state/chat-with-chatgpt/issues/204)
